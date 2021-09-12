@@ -17,7 +17,9 @@
   <img align="center" alt="beatrlz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="beatrlz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="beatrlz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="rafa-yoda" src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif?cid=ecf05e47hetgw70uebki3rx9bwq44dsok3zuecwqp2whhb20&rid=giphy.gif&ct=s">
+   
+   
 </div>
   
   ##
